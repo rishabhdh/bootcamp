@@ -10,8 +10,7 @@ Written in - Python, javascript, XML
 OS -  Linux, Unix, S X, Windows, IOS, Android
 
 
-What is Odoo / OpenERP?
-Odoo / OpenERP is a comprehensive suite of business applications including Sales, CRM, Project management, Warehouse management, Manufacturing, Financial management, and Human Resources just to name a few. Odoo / OpenERP offers a choice of over a thousand modules. Odoo / OpenERP is available in the cloud or on-site and is most suited for small to mid-sized companies. With more than a thousand downloads/installations per day, Odoo / OpenERP is one of the most used open source solution in the world. It has a dynamic community, is flexible, and can be adapted to your needs. It can be put in production rapidly thanks to its modularity and is easy to use
+Odoo is a comprehensive suite of business applications including Sales, CRM, Project management, Warehouse management, Manufacturing, Financial management, and Human Resources just to name a few. Odoo offers a choice of over a thousand modules. Odoo is available in the cloud or on-site and is most suited for small to mid-sized companies. With more than a thousand downloads/installations per day, Odoo is one of the most used open source solution in the world. It has a dynamic community, is flexible, and can be adapted to your needs. It can be put in production rapidly thanks to its modularity and is easy to use
 
 It was formely known as OpenERP but renamed as Odoo in May 2014 after launching of version8. 
 Odoo v8 includes apps containing eCommerce, Business Intelligence, Website creation, point of sales etc.
